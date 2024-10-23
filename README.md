@@ -5,19 +5,19 @@ With a strong foundation in Java development and a creative background in music 
 
 ## 🌟 Recent Projects
 
-### 💅 ValerieNails
+### [💅 ValerieNails](https://github.com/AlexanderSlavchev/ValerieNails)
 **Description**: A website for a manicure salon that provides users with the ability to book appointments, browse services, and view the gallery of works. The goal was to create an elegant and intuitive design to reflect the aesthetics of the salon.  
 **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🎸 MusiciansNetCalculator
+### [🎸 MusiciansNetCalculator](https://github.com/AlexanderSlavchev/MusiciansNetCalculator)
 **Description**: An Android application that helps musicians calculate their net income after issuing invoices. It simplifies the tax and fee calculations, allowing musicians to focus on their craft.  
 **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
 
-### 📷 Photo Contest Web Application
+### [📷 Photo Contest Web Application](https://github.com/AI-PhotoContest/PhotoContest)
 **Description**: A platform where photographers can showcase their work, learn from each other, and be part of a supportive community. I contributed to building the backend with CRUD operations and integrated AWS for storage.  
 **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 📝 Forum Web Application
+### [📝 Forum Web Application](https://github.com/forum-RAI/forum-aplication)
 **Description**: A forum for users to post, comment, and engage with others. The project involved implementing a RESTful API and CRUD functionality for users and posts. I was also involved in creating a modern neumorphic design for the frontend.  
 **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
