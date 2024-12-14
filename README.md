@@ -3,6 +3,8 @@
 
 With a strong foundation in Java development and a creative background in music production, I bring a unique blend of technical and artistic skills to every project. I am passionate about building efficient backend systems, working with modern cloud technologies, and developing solutions that enhance user experiences.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&height=70&color=0040ff&lines=Welcome+to+my+GitHub!+Check+out+my+LinkedIn+profile)](your-linkedin-url)
+
 ## 🌟 Recent Projects
 
 ### [🔗 Ethereum Fetcher - REST Server](https://github.com/AlexanderSlavchev/EthereumFetcher)
